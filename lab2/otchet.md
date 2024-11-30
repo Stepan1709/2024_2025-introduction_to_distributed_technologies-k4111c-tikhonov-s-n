@@ -10,7 +10,7 @@ Group: K4111c
 
 Author: Tikhonov Stepan Nikolaevich
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 28.11.2024
 
